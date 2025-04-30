@@ -20,16 +20,9 @@
 - 🤖 **Machine Learning**, **Deep Learning**, and **Causal Inference**
 - 📊 **Applied Statistics**, **Optimization**, and **Industrial Analytics**
 - 🏭 **Digital Manufacturing**, **Energy Systems**, and **Smart Decision Support**
-- 📚 Enjoy exploring mathematical foundations behind algorithms
+- 📚 **Enjoy exploring mathematical foundations behind algorithms**
 
 ---
-
-## 📚 Featured Projects
-- ⚙️ Smart Grid Fault Detection (Synthetic Dataset)
-- 🧠 Smart Scheduling & Optimization in Digital Plants
-
----
-
 ### 🚀 Tech Stack:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
@@ -37,7 +30,9 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Julia](https://img.shields.io/badge/Julia-9558B2?style=flat&logo=julia&logoColor=white)
 
 ---
 
