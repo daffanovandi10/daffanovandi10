@@ -2,7 +2,7 @@
 
 ### 🎓 MSc in Business Analytics | Aspiring Researcher in Machine Learning & Statistics
 
-📍 Currently completing my MSc at **Queen's University Belfast (QUB)**  
+📍 Completed my MSc at **Queen's University Belfast (QUB)**  
 🎯 Passionate about **Machine Learning**, **Statistical Modelling**, and **Data-Driven Optimization**  
 🧠 Actively exploring **PhD opportunities** in ML, Statistics, and Applied Data Science
 
